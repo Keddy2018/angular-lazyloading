@@ -1,0 +1,15 @@
+a{
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    background-color: rgb(33, 110, 199);
+    border: solid 1px rgb(175, 186, 238);
+    border-radius: 5px;
+    color: aquamarine;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(12, 8, 15);
+    border-color: rgb(12, 8, 15);
+    background-color: rgb(186, 147, 223);
+}
